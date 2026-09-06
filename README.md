@@ -75,7 +75,8 @@ My main areas of focus are **Frontend Development, UI/UX, Backend Development, a
 
 If you're interested in technology, automation, web development, or building something together, feel free to connect.
 
-<!-- Add your links here -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL): https://www.linkedin.com/in/ernipa-it/
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com): paerni.it@gmail.com
 
 ---
 
